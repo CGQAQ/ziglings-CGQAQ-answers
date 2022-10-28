@@ -2,7 +2,7 @@
 
 - [x] exercises\001_hello.zig
 - [x] exercises\002_std.zig
-- [ ] exercises\003_assignment.zig
+- [x] exercises\003_assignment.zig
 - [ ] exercises\004_arrays.zig
 - [ ] exercises\005_arrays2.zig
 - [ ] exercises\006_strings.zig
