@@ -90,4 +90,4 @@
 - [x] exercises\088_async5.zig
 - [x] exercises\089_async6.zig
 - [x] exercises\090_async7.zig
-- [ ] exercises\091_async8.zig
+- [x] exercises\091_async8.zig
