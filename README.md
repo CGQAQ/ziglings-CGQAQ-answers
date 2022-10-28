@@ -50,7 +50,7 @@
 - [x] exercises\048_methods2.zig
 - [x] exercises\049_quiz6.zig
 - [x] exercises\050_no_value.zig
-- [ ] exercises\051_values.zig
+- [x] exercises\051_values.zig
 - [ ] exercises\052_slices.zig
 - [ ] exercises\053_slices2.zig
 - [ ] exercises\054_manypointers.zig
