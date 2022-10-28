@@ -66,7 +66,7 @@
 - [x] exercises\064_builtins.zig
 - [x] exercises\065_builtins2.zig
 - [x] exercises\066_comptime.zig
-- [ ] exercises\067_comptime2.zig
+- [x] exercises\067_comptime2.zig
 - [ ] exercises\068_comptime3.zig
 - [ ] exercises\069_comptime4.zig
 - [ ] exercises\070_comptime5.zig
