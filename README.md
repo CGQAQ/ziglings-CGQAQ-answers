@@ -54,7 +54,7 @@
 - [x] exercises\052_slices.zig
 - [x] exercises\053_slices2.zig
 - [x] exercises\054_manypointers.zig
-- [ ] exercises\055_unions.zig
+- [x] exercises\055_unions.zig
 - [ ] exercises\056_unions2.zig
 - [ ] exercises\057_unions3.zig
 - [ ] exercises\058_quiz7.zig
