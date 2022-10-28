@@ -69,7 +69,7 @@
 - [x] exercises\067_comptime2.zig
 - [x] exercises\068_comptime3.zig
 - [x] exercises\069_comptime4.zig
-- [ ] exercises\070_comptime5.zig
+- [x] exercises\070_comptime5.zig
 - [ ] exercises\071_comptime6.zig
 - [ ] exercises\072_comptime7.zig
 - [ ] exercises\073_comptime8.zig
