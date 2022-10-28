@@ -85,7 +85,7 @@
 - [x] exercises\083_anonymous_lists.zig
 - [x] exercises\084_async.zig
 - [x] exercises\085_async2.zig
-- [ ] exercises\086_async3.zig
+- [x] exercises\086_async3.zig
 - [ ] exercises\087_async4.zig
 - [ ] exercises\088_async5.zig
 - [ ] exercises\089_async6.zig
