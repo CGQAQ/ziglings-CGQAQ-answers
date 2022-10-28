@@ -16,7 +16,7 @@
 - [x] exercises\014_while4.zig
 - [x] exercises\015_for.zig
 - [x] exercises\016_for2.zig
-- [ ] exercises\017_quiz2.zig
+- [x] exercises\017_quiz2.zig
 - [ ] exercises\018_functions.zig
 - [ ] exercises\019_functions2.zig
 - [ ] exercises\020_quiz3.zig
