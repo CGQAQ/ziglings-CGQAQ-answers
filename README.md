@@ -18,7 +18,7 @@
 - [x] exercises\016_for2.zig
 - [x] exercises\017_quiz2.zig
 - [x] exercises\018_functions.zig
-- [ ] exercises\019_functions2.zig
+- [x] exercises\019_functions2.zig
 - [ ] exercises\020_quiz3.zig
 - [ ] exercises\021_errors.zig
 - [ ] exercises\022_errors2.zig
