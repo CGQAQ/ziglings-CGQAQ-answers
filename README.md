@@ -38,7 +38,7 @@
 - [x] exercises\036_enums2.zig
 - [x] exercises\037_structs.zig
 - [x] exercises\038_structs2.zig
-- [ ] exercises\039_pointers.zig
+- [x] exercises\039_pointers.zig
 - [ ] exercises\040_pointers2.zig
 - [ ] exercises\041_pointers3.zig
 - [ ] exercises\042_pointers4.zig
