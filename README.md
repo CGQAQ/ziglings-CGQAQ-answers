@@ -43,7 +43,7 @@
 - [x] exercises\041_pointers3.zig
 - [x] exercises\042_pointers4.zig
 - [x] exercises\043_pointers5.zig
-- [ ] exercises\044_quiz5.zig
+- [x] exercises\044_quiz5.zig
 - [ ] exercises\045_optionals.zig
 - [ ] exercises\046_optionals2.zig
 - [ ] exercises\047_methods.zig
