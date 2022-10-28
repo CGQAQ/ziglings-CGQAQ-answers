@@ -7,7 +7,7 @@
 - [x] exercises\005_arrays2.zig
 - [x] exercises\006_strings.zig
 - [x] exercises\007_strings2.zig
-- [ ] exercises\008_quiz.zig
+- [x] exercises\008_quiz.zig
 - [ ] exercises\009_if.zig
 - [ ] exercises\010_if2.zig
 - [ ] exercises\011_while.zig
