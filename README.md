@@ -58,7 +58,7 @@
 - [x] exercises\056_unions2.zig
 - [x] exercises\057_unions3.zig
 - [x] exercises\058_quiz7.zig
-- [ ] exercises\059_integers.zig
+- [x] exercises\059_integers.zig
 - [ ] exercises\060_floats.zig
 - [ ] exercises\061_coercions.zig
 - [ ] exercises\062_loop_expressions.zig
