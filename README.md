@@ -48,7 +48,7 @@
 - [x] exercises\046_optionals2.zig
 - [x] exercises\047_methods.zig
 - [x] exercises\048_methods2.zig
-- [ ] exercises\049_quiz6.zig
+- [x] exercises\049_quiz6.zig
 - [ ] exercises\050_no_value.zig
 - [ ] exercises\051_values.zig
 - [ ] exercises\052_slices.zig
