@@ -75,7 +75,7 @@
 - [x] exercises\073_comptime8.zig
 - [x] exercises\074_comptime9.zig
 - [x] exercises\075_quiz8.zig
-- [ ] exercises\076_sentinels.zig
+- [x] exercises\076_sentinels.zig
 - [ ] exercises\077_sentinels2.zig
 - [ ] exercises\078_sentinels3.zig
 - [ ] exercises\079_quoted_identifiers.zig
