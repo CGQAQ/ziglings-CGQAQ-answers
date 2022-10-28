@@ -78,7 +78,7 @@
 - [x] exercises\076_sentinels.zig
 - [x] exercises\077_sentinels2.zig
 - [x] exercises\078_sentinels3.zig
-- [ ] exercises\079_quoted_identifiers.zig
+- [x] exercises\079_quoted_identifiers.zig
 - [ ] exercises\080_anonymous_structs.zig
 - [ ] exercises\081_anonymous_structs2.zig
 - [ ] exercises\082_anonymous_structs3.zig
