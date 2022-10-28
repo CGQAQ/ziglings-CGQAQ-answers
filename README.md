@@ -22,7 +22,7 @@
 - [x] exercises\020_quiz3.zig
 - [x] exercises\021_errors.zig
 - [x] exercises\022_errors2.zig
-- [ ] exercises\023_errors3.zig
+- [x] exercises\023_errors3.zig
 - [ ] exercises\024_errors4.zig
 - [ ] exercises\025_errors5.zig
 - [ ] exercises\026_hello2.zig
