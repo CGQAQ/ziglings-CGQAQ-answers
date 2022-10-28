@@ -63,7 +63,7 @@
 - [x] exercises\061_coercions.zig
 - [x] exercises\062_loop_expressions.zig
 - [x] exercises\063_labels.zig
-- [ ] exercises\064_builtins.zig
+- [x] exercises\064_builtins.zig
 - [ ] exercises\065_builtins2.zig
 - [ ] exercises\066_comptime.zig
 - [ ] exercises\067_comptime2.zig
