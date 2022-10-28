@@ -33,7 +33,7 @@
 - [x] exercises\031_switch2.zig
 - [x] exercises\032_unreachable.zig
 - [x] exercises\033_iferror.zig
-- [ ] exercises\034_quiz4.zig
+- [x] exercises\034_quiz4.zig
 - [ ] exercises\035_enums.zig
 - [ ] exercises\036_enums2.zig
 - [ ] exercises\037_structs.zig
