@@ -4,7 +4,7 @@
 - [x] exercises\002_std.zig
 - [x] exercises\003_assignment.zig
 - [x] exercises\004_arrays.zig
-- [ ] exercises\005_arrays2.zig
+- [x] exercises\005_arrays2.zig
 - [ ] exercises\006_strings.zig
 - [ ] exercises\007_strings2.zig
 - [ ] exercises\008_quiz.zig
