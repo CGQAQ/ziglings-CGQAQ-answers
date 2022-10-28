@@ -9,7 +9,7 @@
 - [x] exercises\007_strings2.zig
 - [x] exercises\008_quiz.zig
 - [x] exercises\009_if.zig
-- [ ] exercises\010_if2.zig
+- [x] exercises\010_if2.zig
 - [ ] exercises\011_while.zig
 - [ ] exercises\012_while2.zig
 - [ ] exercises\013_while3.zig
