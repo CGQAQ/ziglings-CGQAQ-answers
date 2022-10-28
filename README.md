@@ -60,7 +60,7 @@
 - [x] exercises\058_quiz7.zig
 - [x] exercises\059_integers.zig
 - [x] exercises\060_floats.zig
-- [ ] exercises\061_coercions.zig
+- [x] exercises\061_coercions.zig
 - [ ] exercises\062_loop_expressions.zig
 - [ ] exercises\063_labels.zig
 - [ ] exercises\064_builtins.zig
