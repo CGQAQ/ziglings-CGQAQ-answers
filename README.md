@@ -81,7 +81,7 @@
 - [x] exercises\079_quoted_identifiers.zig
 - [x] exercises\080_anonymous_structs.zig
 - [x] exercises\081_anonymous_structs2.zig
-- [ ] exercises\082_anonymous_structs3.zig
+- [x] exercises\082_anonymous_structs3.zig
 - [ ] exercises\083_anonymous_lists.zig
 - [ ] exercises\084_async.zig
 - [ ] exercises\085_async2.zig
