@@ -31,7 +31,7 @@
 - [x] exercises\029_errdefer.zig
 - [x] exercises\030_switch.zig
 - [x] exercises\031_switch2.zig
-- [ ] exercises\032_unreachable.zig
+- [x] exercises\032_unreachable.zig
 - [ ] exercises\033_iferror.zig
 - [ ] exercises\034_quiz4.zig
 - [ ] exercises\035_enums.zig
