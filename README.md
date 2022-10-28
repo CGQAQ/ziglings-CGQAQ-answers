@@ -28,7 +28,7 @@
 - [x] exercises\026_hello2.zig
 - [x] exercises\027_defer.zig
 - [x] exercises\028_defer2.zig
-- [ ] exercises\029_errdefer.zig
+- [x] exercises\029_errdefer.zig
 - [ ] exercises\030_switch.zig
 - [ ] exercises\031_switch2.zig
 - [ ] exercises\032_unreachable.zig
