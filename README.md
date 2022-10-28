@@ -40,7 +40,7 @@
 - [x] exercises\038_structs2.zig
 - [x] exercises\039_pointers.zig
 - [x] exercises\040_pointers2.zig
-- [ ] exercises\041_pointers3.zig
+- [x] exercises\041_pointers3.zig
 - [ ] exercises\042_pointers4.zig
 - [ ] exercises\043_pointers5.zig
 - [ ] exercises\044_quiz5.zig
