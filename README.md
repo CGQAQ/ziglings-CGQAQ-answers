@@ -35,7 +35,7 @@
 - [x] exercises\033_iferror.zig
 - [x] exercises\034_quiz4.zig
 - [x] exercises\035_enums.zig
-- [ ] exercises\036_enums2.zig
+- [x] exercises\036_enums2.zig
 - [ ] exercises\037_structs.zig
 - [ ] exercises\038_structs2.zig
 - [ ] exercises\039_pointers.zig
