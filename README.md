@@ -1,4 +1,4 @@
-# Progress
+# Progress (91/91) completed!
 
 - [x] exercises\001_hello.zig
 - [x] exercises\002_std.zig
