@@ -26,7 +26,7 @@
 - [x] exercises\024_errors4.zig
 - [x] exercises\025_errors5.zig
 - [x] exercises\026_hello2.zig
-- [ ] exercises\027_defer.zig
+- [x] exercises\027_defer.zig
 - [ ] exercises\028_defer2.zig
 - [ ] exercises\029_errdefer.zig
 - [ ] exercises\030_switch.zig
