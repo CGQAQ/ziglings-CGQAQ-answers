@@ -73,7 +73,7 @@
 - [x] exercises\071_comptime6.zig
 - [x] exercises\072_comptime7.zig
 - [x] exercises\073_comptime8.zig
-- [ ] exercises\074_comptime9.zig
+- [x] exercises\074_comptime9.zig
 - [ ] exercises\075_quiz8.zig
 - [ ] exercises\076_sentinels.zig
 - [ ] exercises\077_sentinels2.zig
